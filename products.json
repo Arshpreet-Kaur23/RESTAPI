@@ -20,5 +20,27 @@
         "name":"iphone10",
         "price":"304",
         "company":"Apple"
+    },
+    {
+        "name":"Galaxy",
+        "price":"154",
+        "feature":true,
+        "company":"Samsung"
+    },
+    {
+        "name":"Android",
+        "price":"1154",
+        "feature":true,
+        "company":"MI"
+    },
+    {
+        "name":"watch",
+        "price":"204",
+        "company":"MI"
+    },
+    {
+        "name":"iphone10",
+        "price":"304",
+        "company":"Apple"
     }
 ]
